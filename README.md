@@ -3,5 +3,5 @@ The klipper configuration file for longer3d printers is saved here, which will b
 
 ## update status
 - [x] LK4 X
-- [ ] LK5 PRO
+- [x] LK5 PRO
 - [ ] LK1 PRO
